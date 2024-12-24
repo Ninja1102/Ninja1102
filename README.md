@@ -25,11 +25,11 @@
 
 <h3> ⚙️ &nbsp;GitHub Analytics </h3>
 
-<div class="row">
-  <div class="column">
+<div class="row" display="flex">
+  <div class="column" flex="33.33%" padding="5px">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=algolia" style="width:100%">
   </div>
-  <div class="column">
+  <div class="column" flex="33.33%" padding="5px">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"  style="width:100%">
   </div>
 </div>
