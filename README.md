@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Haripriya Murugavel</h2>
 
-<h3>👨🏻‍💻 &nbsp;About Me</h3>>
+<h3>👨🏻‍💻 &nbsp;About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I completed my bachelor's degree in Information Technology.\
