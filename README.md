@@ -1,11 +1,11 @@
 <h2>Hey there! I'm Haripriya Murugavel</h2>
 
-<h3>👨🏻‍💻 &nbsp;About Me</h3>
+<h3>👨🏻‍💻 &nbsp;About Me</h3>>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I completed my bachelor's degree in Information Technology.\
 ✉️ &nbsp;You can shoot me an email at haripriya.112003@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1ftuzyacyav8RVBrFLPIhA-fzymvgw5l2/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ftuzyacyav8RVBrFLPIhA-fzymvgw5l2/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 <h3> 🛠 &nbsp; Languages and tools</h3>
 
@@ -24,15 +24,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3> ⚙️ &nbsp;GitHub Analytics </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Ninja1102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=algolia&include_all_commits=true count_private=true"/>
 </a>
 </p>
 
+<p aling="right">
+  <a href="https://github.com/Ninja1102">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Ninja1102&color=brightgreen" alt="watching_count" />
