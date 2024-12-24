@@ -27,8 +27,8 @@
 
 <p align="center" block="inline" float="left">
 <a href="https://github.com/Ninja1102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="150" width="250"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=midnight-purple" height="150" width="250"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" height="300" width="400"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=midnight-purple" height="350" width="400"/>
 </a>
 </p>
 
