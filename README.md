@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Haripriya Murugavel</h2>
 
-<h3>👨🏻‍💻 &nbsp;About Me</h3>>
+<h3>👨🏻‍💻 &nbsp;About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I completed my bachelor's degree in Information Technology.\
@@ -28,11 +28,11 @@
 
 <p align="left">
 <a href="https://github.com/Ninja1102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=algolia&include_all_commits=true count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-<p aling="right">
+<p align="right">
   <a href="https://github.com/Ninja1102">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=algolia"/>
   </a>
