@@ -31,7 +31,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=midnight-purple" height="350" width="400"/>
 </a>
 </p>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Ninja1102&color=brightgreen" alt="watching_count" />
- </p>
