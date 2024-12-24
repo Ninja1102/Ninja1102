@@ -25,10 +25,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="center" "inline">
 <a href="https://github.com/Ninja1102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ninja1102&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ninja1102&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
