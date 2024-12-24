@@ -5,7 +5,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I completed my bachelor's degree in Information Technology.\
 ✉️ &nbsp;You can shoot me an email at haripriya.112003@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1ftuzyacyav8RVBrFLPIhA-fzymvgw5l2/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 <h3> 🛠 &nbsp; Languages and tools</h3>
 
